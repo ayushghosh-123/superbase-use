@@ -13,8 +13,8 @@ c Superbase
 ----
 ## workflow - 
 
-Bassically I  understand tgithye routng and authentication process through the small pr0ojecty .
-I make only signup , login , logout pages four my hackathon project.
+Bassically I  understand the concept of  routng and authentication process through the small pr0ojecty .
+I make only signup , login , logout pages for my hackathon project.
 
 ---
 ## How to use4 it -
